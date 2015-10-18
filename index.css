@@ -1,0 +1,33 @@
+.header{
+  text-align: center;
+  font-size: 3em;
+  font-family: sans-serif;
+  margin-top: 200px;
+}
+.description{
+  text-align: center;
+  font-size: 1em;
+  font-family: sans-serif;
+  margin-top: 100px;
+}
+.start_button{
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  border-radius: 5px;
+  background-color: lightblue;
+  color: white;
+  text-shadow: 10px;
+  margin: auto;
+  margin-top: 50px;
+  font-family: sans-serif;
+  box-shadow: 5px 5px 5px #606060;
+  font-size: 1.5em;
+
+}
+a{
+  text-decoration: none;
+}
+.container{
+  vertical-align: middle;
+}
