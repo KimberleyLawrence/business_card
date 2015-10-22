@@ -2,13 +2,19 @@
   text-align: center;
   font-size: 3em;
   font-family: sans-serif;
-  margin-top: 200px;
+  margin-top: 100px;
+}
+.subheader{
+  text-align: center;
+  font-size: 1.5em;
+  font-family: sans-serif;
+  margin-top: 50px;
 }
 .description{
   text-align: center;
   font-size: 1em;
   font-family: sans-serif;
-  margin-top: 100px;
+  margin-top: 50px;
 }
 .start_button{
   text-align: center;
@@ -30,4 +36,17 @@ a{
 }
 .container{
   vertical-align: middle;
+}
+.selection_list{
+  margin-left: 35%;
+  margin-right: 30%;
+  font-family: sans-serif;
+  -webkit-column-count: 2; /* Chrome, Safari, Opera */
+  -moz-column-count: 2; /* Firefox */
+  column-count: 2;
+}
+.submit{
+  text-align: center;
+  width: 50px;
+  height: 100px;
 }
